@@ -1,0 +1,2 @@
+OPENWEATHER_API_KEY=
+*/1 * * * * $HOME/.bun/bin/bun run $HOME/email.ts >> $HOME/output.txt 2>&1
